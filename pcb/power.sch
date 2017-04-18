@@ -37,10 +37,10 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 3 4
 Title "Eighty-Two Nixie-Six: Internet Radio Alarm Clock"
-Date "2017-03-19"
-Rev "1.0"
+Date "2017-04-18"
+Rev "1.1"
 Comp ""
-Comment1 ""
+Comment1 "Licensed under MPL 2.0"
 Comment2 ""
 Comment3 ""
 Comment4 ""
